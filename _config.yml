@@ -20,8 +20,8 @@ description: > #this means to ignore newlines until "nav_lists:"
   Everything you really need to know to become a data scientist.
 
 nav_lists:
-  - titles: data scientist
-      en: About
+  - titles:
+      en: Ava
       zh: 关于
       zh-Hans: 关于
       zh-Hant: 關於
