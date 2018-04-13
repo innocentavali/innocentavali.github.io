@@ -13,7 +13,7 @@
 
 text_color_theme: forest #eg: default | dark | forest | ocean | chocolate | orange
 ## Base settings ##
-# url:  #the base hostname & protocol for your site e.g. https://www.someone.com
+url: https://innocentavali.github.io #the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl: /
 title: Ava Li's blog
 description: > #this means to ignore newlines until "nav_lists:"
@@ -21,21 +21,21 @@ description: > #this means to ignore newlines until "nav_lists:"
 
 nav_lists:
   - titles:
-      en: About
+      en: Ava
       zh: 关于
       zh-Hans: 关于
       zh-Hant: 關於
     url: /about.html
 
 # paths:
-#   base: /
-#   home: /
+  base: /
+  home: https://github.com/innocentavali/innocentavali.github.io/
 #   all:  /all.html
 #   rss:  /feed.xml
 
 ## GitHub repository (if the site is hosted by GitHub) ##
-# repository:  #e.g. someone/someone.github.io
-# repository_tree:  #e.g. master
+repository:  innocentavali/innocentavali.github.io #e.g. someone/someone.github.io
+repository_tree: master  #e.g. master
 
 ## Language & timezone ##
 lang: en #the language of your site, eg: en(English), zh(简体中文), zh-Hans(简体中文), zh-Hant(繁體中文)
@@ -44,14 +44,14 @@ timezone: America/Los_Angeles #see https://en.wikipedia.org/wiki/List_of_tz_data
 ## Author & social ##
 author:
   name: Ava Li
-  # email:  #your Email address e.g. someone@site.com
-  # facebook:  #your Facebook username
+  email: avali484@gmail.com #your Email address e.g. someone@site.com
+  facebook: Ava Li #your Facebook username
   # twitter:  #your Twitter username
-  # github:  #your GitHub username
+  github: innocentavali #your GitHub username
   # googleplus:  #your Google+ username
   # weibo:  #your Weibo username
   # douban:  #your Douban username
-  # linkedin:  #your Linkedin username
+  linkedin: Xinrui(Ava) Li #your Linkedin username
 
 ## TOC
 toc:
@@ -64,12 +64,12 @@ disqus:
 ## Comment system (gitalk) ##
 # please refer to https://github.com/gitalk/gitalk for more info.
 gitalk:
-  # clientID:  #Github Application Client ID
-  # clientSecret:  #Github Application Client Secret
-  # repository:  #Github repo
-  # owner:  #Github repo owner
+  clientID: 53167f836a18888e3f40 #Github Application Client ID
+  clientSecret: e41b8253732a84e70108e505ac6699d17092ac92  #Github Application Client Secret
+  repository: gitalk #Github repo
+  owner: innocentavali #Github repo owner
   # admin: #Github repo owner and collaborators, only these guys can initialize github issues, IT IS A LIST.
-    # - owner
+     - innocentavali
 
 ## Google Analytics ##
 # ga_tracking_id:  #Google analytics id for the site
