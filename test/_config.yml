@@ -15,17 +15,17 @@ theme: jekyll-text-theme
 #    |  |  \   --. /  .'.  \  |  |
 #    `--'   `----''--'   '--' `--'
 
-text_color_theme: forest #eg: default | dark | forest | ocean | chocolate | orange
+text_color_theme: default #eg: default | dark | forest | ocean | chocolate | orange
 ## Base settings ##
-url: https://innocentavali.github.io #the base hostname & protocol for your site e.g. https://www.someone.com
+# url:  #the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl: /
-title: Ava Li's blog
+title: Someone's blog
 description: > #this means to ignore newlines until "nav_lists:"
-  Everything you really need to know to become a data scientist.
+  Someone's Blog
 
 nav_lists:
   - titles:
-      en: Ava
+      en: About
       zh: 关于
       zh-Hans: 关于
       zh-Hant: 關於
@@ -43,11 +43,11 @@ nav_lists:
 
 ## Language & timezone ##
 lang: en #the language of your site, eg: en(English), zh(简体中文), zh-Hans(简体中文), zh-Hant(繁體中文)
-timezone: America/Los_Angeles #see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
+timezone: Asia/Shanghai #see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
 
 ## Author & social ##
 author:
-  name: Ava Li
+  name: Someone
   # email:  #your Email address e.g. someone@site.com
   # facebook:  #your Facebook username
   # twitter:  #your Twitter username
