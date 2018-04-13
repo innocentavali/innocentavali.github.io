@@ -5,10 +5,10 @@ NAV:
     zh-Hans: "主页"
     zh-Hant: "主頁"
   ALL:
-    en:      "Archive"
-    zh:      "归档"
-    zh-Hans: "归档"
-    zh-Hant: "歸檔"
+    en:      "Data Science"
+    zh:      "数据科学"
+    zh-Hans: "数据科学"
+    zh-Hant: "数据科学"
   RSS:
     en:      "RSS"
     zh:      "RSS"
