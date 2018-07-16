@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Python Basics 1 variable and syntax
-key: 20180417
+title: How to scrape pictures from a website
+key: 20180716
 tags: 
   - Python
 ---

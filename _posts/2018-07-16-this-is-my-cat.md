@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Jekyll - Images
-key: 20160707
-tags: Jekyll English
+title: This is my cat
+key: 20160716
+tags: 
+  - life
 ---
 
-![](//ww1.sinaimg.cn/large/73bd9e13ly1fof1u4iaorj2074074gp3.jpg)
+![](/Users/avali/Desktop/Git/DataScienceBlog/innocentavali.github.io/_image/simba1.jpg)
 
-smile, smile, smile. :smile:
+Hello, everyone. This is my cat, Simba. Let me introduce him to all of you!
 
 <!--more-->
 
