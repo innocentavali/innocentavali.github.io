@@ -18,7 +18,7 @@ Hello, everyone. This is my cat, Simba. Let me introduce him to all of you!
 
 ## With ALT
 
-![Lenna](//ww1.sinaimg.cn/large/73bd9e13ly1fof1u4iaorj2074074gp3.jpg)
+![Simba](https://img1.doubanio.com/view/photo/l/public/p2528159577.webp)
 
 **markdown:**
 
