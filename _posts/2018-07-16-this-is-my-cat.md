@@ -6,7 +6,7 @@ tags:
   - life
 ---
 
-![](/Users/avali/Desktop/Git/DataScienceBlog/innocentavali.github.io/_image/simba1.jpg)
+![Simba](/Users/avali/Desktop/Git/DataScienceBlog/innocentavali.github.io/_image/simba1.jpg)
 
 Hello, everyone. This is my cat, Simba. Let me introduce him to all of you!
 
