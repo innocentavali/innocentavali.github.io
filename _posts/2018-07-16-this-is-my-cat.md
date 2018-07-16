@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let me show: Simba!
+title: Let me show Simba!
 key: 20160716
 tags: 
   - life
