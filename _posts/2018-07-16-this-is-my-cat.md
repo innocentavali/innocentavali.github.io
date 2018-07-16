@@ -6,7 +6,7 @@ tags:
   - life
 ---
 
-![Simba](/Users/avali/Desktop/Git/DataScienceBlog/innocentavali.github.io/_image/simba1.jpg){:width="128px" height="128px"}
+![Simba](https://img1.doubanio.com/view/photo/l/public/p2528159577.webp){:width="128px" height="128px"}
 
 Hello, everyone. This is my cat, Simba. Let me introduce him to all of you!
 
@@ -18,7 +18,7 @@ Hello, everyone. This is my cat, Simba. Let me introduce him to all of you!
 
 ## With ALT
 
-![Simba](https://img1.doubanio.com/view/photo/l/public/p2528159577.webp)
+![Lenna](//ww1.sinaimg.cn/large/73bd9e13ly1fof1u4iaorj2074074gp3.jpg "Lenna")
 
 **markdown:**
 
