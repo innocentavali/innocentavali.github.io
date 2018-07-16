@@ -6,7 +6,7 @@ tags:
   - life
 ---
 
-![Simba](https://img1.doubanio.com/view/photo/l/public/p2528159577.webp){:width="128px" height="128px"}
+![Simba](https://img1.doubanio.com/view/photo/l/public/p2528159577.webp){:width="210px" height="280px"}
 
 Hello, everyone. This is my cat, Simba. Let me introduce him to all of you!
 
