@@ -11,9 +11,9 @@ Since I learned some stuff about machine learning, I always want to make use of 
 
 For example, I want to build web applications which can automatically process images. But where can I get the material? 
 
-I don't like the images from some open dataset. It's just...too old...academic...and ugly! 
+I don't like the images from some open dataset. It's just...too old...and ugly! 
 
-And sometimes it's also hard to find the specifc component I want. (They never knew what's in my mind)
+And sometimes it's also hard to find the specifc component I want. 
 
 So I decided to scrape it from the website myself! Afterwards, I can do whatever I want~ 
 

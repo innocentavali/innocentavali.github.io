@@ -6,7 +6,7 @@ tags:
   - Life
 ---
 
-![Simba](/_image/simba1.JPG){:width="210px" height="280px"}
+![Simba](/_image/simba1.jpg){:width="210px" height="280px"}
 
 Hello, everyone. This is my cat, Simba. Let me introduce him to all of you!
 
