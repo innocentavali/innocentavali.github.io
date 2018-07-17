@@ -15,10 +15,12 @@ I don't like the images from some open dataset. It's just...too old...and ugly!
 
 And sometimes it's also hard to find the specifc component I want. 
 
-So I decided to scrape it from the website myself! Afterwards, I can do whatever I want~ 
+So I decided to scrape images from the website myself! Afterwards, I can do whatever I want~ 
 
 ## Let's get some popcorns
 
 First let's go to one of my favourite websites with quality pictures - Pinterest.
 
-![Popcorn](/image/Pinterest1.png){:width="200px" height="126px"}
+![Popcorn](/image/Pinterest1.png){:width="400px" height="252px"}
+
+After typing in 'Popcorn', boom! So many 
