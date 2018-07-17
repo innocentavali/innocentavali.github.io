@@ -21,4 +21,4 @@ So I decided to scrape it from the website myself! Afterwards, I can do whatever
 
 First let's go to one of my favourite websites with quality pictures - Pinterest.
 
-![Popcorn](/_image/Pinterest1.png){:width="200px" height="126px"}
+![Popcorn](/image/Pinterest1.png){:width="200px" height="126px"}
