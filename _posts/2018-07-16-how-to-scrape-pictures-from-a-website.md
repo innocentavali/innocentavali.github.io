@@ -21,6 +21,6 @@ So I decided to scrape images from the website myself! Afterwards, I can do what
 
 First let's go to one of my favourite websites with quality pictures - Pinterest.
 
-![Popcorn](/image/Pinterest1.png){:width="400px" height="252px"}
+![Popcorn](/image/Pinterest1.png){:width="800px" height="504px"}
 
 After typing in 'Popcorn', boom! So many 
